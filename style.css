@@ -1,0 +1,14 @@
+.head {
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+}
+.dad {
+display: flex;
+justify-content: space-around;
+}
+.son1 {
+
+}
+.son2 {
+
+}
